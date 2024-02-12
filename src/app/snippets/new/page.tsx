@@ -1,5 +1,5 @@
 import React from "react";
-import { db } from "@/app/db";
+import { db } from "../../db";
 import { redirect } from "next/navigation";
 
 const SnippetCreatePage = () => {
